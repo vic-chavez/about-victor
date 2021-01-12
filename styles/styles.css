@@ -1,11 +1,36 @@
+.img-Headshot {
+    width: 400px;
+}
+
+body {
+    text-align: center;
+    font-size: 30px;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
 h1 {
     color: darkred;
+    font-size: 100px;
+    text-align: center;
 }
 
 h2 {
     color: rebeccapurple;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, monospace;
+
 }
 
 h3 {
     color: blue;
+    text-align: center;
+    font-family: Arial, monospace;
+    font-size: 30px;
+
+}
+
+.img-3D {
+    width: 700px;
 }
